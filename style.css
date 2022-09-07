@@ -1,0 +1,20 @@
+.card{
+
+    width: 500px;
+    background-color: aquamarine;
+    text-align: center;
+
+}
+
+#dish-name{
+
+    color:white;
+
+}
+
+.correct {
+    border: 2px solid #00A4BD;
+  }
+
+
+    
